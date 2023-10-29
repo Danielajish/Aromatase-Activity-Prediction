@@ -1,0 +1,1 @@
+Here We are predicting the IC50 values of the inhibitors of the aromatase using the  pubchem fingerprints that was obtained for each molecule
